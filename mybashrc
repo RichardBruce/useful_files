@@ -1,0 +1,21 @@
+alias ne=nedit
+alias ge=gedit
+alias st=subl
+alias PDE='cd ~/work/lib; source dotbashrc; cd ~/work/cqf/risk_engine/'
+alias COINT='cd ~/work/lib; source dotbashrc; cd ~/work/cqf/cointegration'
+alias RT='cd ~/work/git/RAPTor/lib; source dotbashrc; cd ~/work/git/RAPTor/RAPTor; source dotbashrc'
+
+# java set up
+export JAVA_HOME=/usr/lib/jvm/java-7-oracle
+
+# cuda set up
+export PATH=$PATH:/usr/local/cuda-5.0/bin
+export LD_LIBRARY_PATH=/usr/local/cuda-5.0/lib64:/lib
+
+# Git aliases
+alias gst='git status'
+alias gcm='git commit -m'
+
+# VTune set up
+source /opt/intel/vtune_amplifier_xe/amplxe-vars.sh
+export EDITOR=/usr/bin/subl
