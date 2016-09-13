@@ -1,0 +1,68 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 9.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       157,          7]
+NotebookDataLength[      1463,         59]
+NotebookOptionsPosition[      1050,         39]
+NotebookOutlinePosition[      1386,         54]
+CellTagsIndexPosition[      1343,         51]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["Kinematics", "Subsubtitle",
+ CellChangeTimes->{{3.590457726488667*^9, 3.59045772907981*^9}}],
+
+Cell["Translational", "Section",
+ CellChangeTimes->{{3.59045773918506*^9, 3.590457741655963*^9}}],
+
+Cell[CellGroupData[{
+
+Cell["Rotational", "Section",
+ CellChangeTimes->{{3.5904577444159203`*^9, 3.590457746087378*^9}}],
+
+Cell[BoxData[""], "Input",
+ CellChangeTimes->{{3.590457797479971*^9, 3.5904578197647943`*^9}, 
+   3.590470409168054*^9}]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{740, 867},
+WindowMargins->{{-7, Automatic}, {Automatic, 24}},
+FrontEndVersion->"9.0 for Linux x86 (64-bit) (February 7, 2013)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[579, 22, 98, 1, 31, "Subsubtitle"],
+Cell[680, 25, 97, 1, 81, "Section"],
+Cell[CellGroupData[{
+Cell[802, 30, 97, 1, 51, "Section"],
+Cell[902, 33, 120, 2, 32, "Input"]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
